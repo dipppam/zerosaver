@@ -1,0 +1,29 @@
+{
+  "fb_0": "false",
+  "fb_1": "true",
+  "fb_2": "false",
+  "fb_default": "false",
+  
+  "te_enable" : "true",
+  
+  "latest_version" : "61",
+   "latest_news_onclick" : {
+        "Heading": " Version 6.2",
+        "New Features" : " Changelog: \nFixed Whatsapp Status Saver not working on some phones\n1. New UI \n2. New All in One Gallery with Ai support \n3. Fixed Reel videos downloading issue \n4. Added In-depth video tutorial how to download videos, stories without watermark.",
+        "link" : "market://details?id=com.zeroltd.videodownloader"
+  },
+  
+  "latest_news_onclick_enable" : "false",
+  "latest_news": "Thanks for downloading..Enjoy Unlimited video saver from popular media apps with less ads...",
+  "notify_click" : {
+        "Heading": "",
+        "New Features" : "Hi,\nWe are aware of Reels videos not downloading. \nPlease be patient. We are working on that..\n\nIf you have any other issues, don't hesitate to mail us",
+        "link" : "mailto:zeroltds@protonmail.com" 
+ },
+
+ "pdisk_sites" : "pdisk,cofilink,dropx,droppx,kofilink,weeshares,vveshare",
+ "pdisk_nginx_sites" : "pdisk,pdisks,dropx,droppx,kofilink,kuklink,weeshares,wslinker,vdshort",
+ 
+ "iad" : "U/ym&I>6G]0)CP8g30nEMl2PQc4GwYwND45YoN2ykyCO43t2NX7ryXZ8FmQyU8mgKUe11Y0AHIxmcvT",
+ "bad" : "DR2%=w=0hj7Z<fcZ2sSs+DhU1ksnJjNVahoOHHw9pHuJ6fw8fr9U/sNGbQim0Q2zApQdYx8Wew3JwSKq"
+}
