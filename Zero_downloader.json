@@ -13,11 +13,11 @@
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
   
-  "latest_news_onclick_enable" : "false",
-  "latest_news": "Thanks for downloading..Enjoy Unlimited video saver from popular media apps with less ads...",
+  "latest_news_onclick_enable" : "true",
+  "latest_news": "Now we have added Pdisk Video downloader directy to your gallery (No more Playit app needed).",
   "notify_click" : {
         "Heading": "",
-        "New Features" : "Hi,\nWe are aware of Reels videos not downloading. \nPlease be patient. We are working on that..\n\nIf you have any other issues, don't hesitate to mail us",
+        "New Features" : "Hi,\n1. Added Pdisk videos can be downloaded to your gallery(No More Playit app needed).\n2. Now we support more than 50+ sites.\n\nIf you have any issues, don't hesitate to mail us",
         "link" : "mailto:zeroltds@protonmail.com" 
  },
 
@@ -25,5 +25,6 @@
  "pdisk_nginx_sites" : "pdisk,pdisks,dropx,droppx,kofilink,kuklink,weeshares,wslinker,vdshort",
  
  "iad" : "$cnv#:c5Xd]>sgs.MpBQ3IyvbvfMHLW9SMv1A3Wgxw5fYhJP9bQepF21kyQKJdAZGUiJgNDi6ENtprR7",
+ "adblock_iad" : "D|/W}Xz_!q ^0qXnRWOklEml4huBEVxHoL2vCbDmekNaJSn0yYKsTdgOQblNMmCbZhSV/1OP5EVPPpd8",
  "bad" : "RYq+}+>3d&Wce bI1aade2W7+Ny1vjKQWdNdKsillNBYFxmKYvJj7vhqaEFWiLlvQQ61z+X8bLq+vRGY"
 }
