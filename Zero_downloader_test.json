@@ -16,7 +16,7 @@
  "latest_news_onclick_enable" : "true",
   "latest_news": "Now we have added Pdisk Video downloader directy to your gallery (No more Playit app needed).",
   "notify_click" : {
-        "Heading": "",
+        "Heading": "Features of our App",
         "New Features" : "Hi,\nAdded Pdisk videos can be downloaded to your gallery(No More Playit app needed).\nNow we support more than 50+ sites.\n\nIf you have any issues, don't hesitate to mail us",
         "link" : "mailto:zeroltds@protonmail.com" 
  },
