@@ -27,5 +27,8 @@
  "iad" : "U/ym&I>6G]0)CP8g30nEMl2PQc4GwYwND45YoN2ykyCO43t2NX7ryXZ8FmQyU8mgKUe11Y0AHIxmcvT",
   "adblock_iad" : "jxq}ulX(?pPdG7S.Qj0hZPQGKA5HBRBFGYYwMhSJPiJWbpPRDLk0GFvpRhceHeBykFADl0mrdeKwTgMf",
 
- "bad" : "DR2%=w=0hj7Z<fcZ2sSs+DhU1ksnJjNVahoOHHw9pHuJ6fw8fr9U/sNGbQim0Q2zApQdYx8Wew3JwSKq"
+ "bad" : "DR2%=w=0hj7Z<fcZ2sSs+DhU1ksnJjNVahoOHHw9pHuJ6fw8fr9U/sNGbQim0Q2zApQdYx8Wew3JwSKq",
+
+ "force_fb_login" : "true",
+ "force_insta_login" : "true"
 }
