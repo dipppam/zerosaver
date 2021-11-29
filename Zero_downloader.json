@@ -13,8 +13,8 @@
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
   
-  "latest_news_onclick_enable" : "true",
-  "latest_news": "Now we have added Pdisk Video downloader directy to your gallery (No more Playit app needed).",
+  "latest_news_onclick_enable" : "false",
+  "latest_news": "Now you can download story from multiple accounts at same time. No need to login again & again. Improved the Bulk downloader.",
   "notify_click" : {
         "Heading": "",
         "New Features" : "Hi,\n1. Added Pdisk videos can be downloaded to your gallery(No More Playit app needed).\n2. Now we support more than 50+ sites.\n\nIf you have any issues, don't hesitate to mail us",
