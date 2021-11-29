@@ -6,7 +6,7 @@
   
   "te_enable" : "true",
   
-  "latest_version" : "61",
+  "latest_version" : "64",
    "latest_news_onclick" : {
         "Heading": " Version 6.2",
         "New Features" : " Changelog: \nFixed Whatsapp Status Saver not working on some phones\n1. New UI \n2. New All in One Gallery with Ai support \n3. Fixed Reel videos downloading issue \n4. Added In-depth video tutorial how to download videos, stories without watermark.",
