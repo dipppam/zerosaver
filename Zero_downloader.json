@@ -29,5 +29,22 @@
  "bad" : "RYq+}+>3d&Wce bI1aade2W7+Ny1vjKQWdNdKsillNBYFxmKYvJj7vhqaEFWiLlvQQ61z+X8bLq+vRGY",
 
  "force_fb_login" : "false",
- "force_insta_login" : "true"
+ "force_insta_login" : "true",
+
+ "forceupdate_version" : "64",
+   "forceupdate_dialog" : {
+        "Heading": " Version 6.2",
+        "New Features" : " Changelog: \nFixed Whatsapp Status Saver not working on some phones\n1. New UI \n2. New All in One Gallery with Ai support \n3. Fixed Reel videos downloading issue \n4. Added In-depth video tutorial how to download videos, stories without watermark.",
+        "link" : "market://details?id=com.zeroltd.videodownloader"
+  },
+
+  "forcedialog_issues_enable" : "true",
+   "forcedialog_issues_dialog" : {
+        "Heading": "Attention",
+        "Text1" : "Due to some technical issues, Josh downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more issues mail us"
+  },
+
+  "homescreen_scrollnews_click_enable" : "false",
+  "homescreen_scrollnews_text": "Now you can download story from multiple accounts at same time. No need to login again & again. Improved the Bulk downloader.",
+  "homescreen_scrollnews_onClick_link" : "market://details?id=com.zeroltd.videodownloader"
 }
