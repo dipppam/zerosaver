@@ -2,17 +2,12 @@
   "fb_0": "false",
   "fb_1": "true",
   "fb_2": "false",
-  "fb_default": "false",
-  
-  "te_enable" : "true",
-  
   "latest_version" : "64",
    "latest_news_onclick" : {
         "Heading": " Version 6.2",
         "New Features" : " Changelog: \nFixed Whatsapp Status Saver not working on some phones\n1. New UI \n2. New All in One Gallery with Ai support \n3. Fixed Reel videos downloading issue \n4. Added In-depth video tutorial how to download videos, stories without watermark.",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
-  
   "latest_news_onclick_enable" : "false",
   "latest_news": "Now you can download story from multiple accounts at same time. No need to login again & again. Improved the Bulk downloader.",
   "notify_click" : {
@@ -20,6 +15,14 @@
         "New Features" : "Hi,\n1. Added Pdisk videos can be downloaded to your gallery(No More Playit app needed).\n2. Now we support more than 50+ sites.\n\nIf you have any issues, don't hesitate to mail us",
         "link" : "mailto:zeroltds@protonmail.com" 
  },
+
+
+
+ 
+ "fb_default": "false",
+ "fb_download_method":"1",
+ 
+ "te_enable" : "true",
 
  "pdisk_sites" : "pdisk,cofilink,dropx,droppx,kofilink,weeshares,vveshare",
  "pdisk_nginx_sites" : "pdisk,pdisks,dropx,droppx,kofilink,kuklink,weeshares,wslinker,vdshort",
@@ -38,7 +41,7 @@
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
 
-  "forcedialog_issues_enable" : "true",
+  "forcedialog_issues_enable" : "false",
    "forcedialog_issues_dialog" : {
         "Heading": "Attention",
         "Text1" : "Due to some technical issues, Josh downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more issues mail us"
