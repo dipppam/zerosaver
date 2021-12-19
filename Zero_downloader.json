@@ -45,9 +45,6 @@
    "forcedialog_issues_dialog" : {
         "Heading": "Attention",
         "Text1" : "Due to some technical issues, Josh downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more issues mail us"
-  },
-
-  "homescreen_scrollnews_click_enable" : "false",
-  "homescreen_scrollnews_text": "Now you can download story from multiple accounts at same time. No need to login again & again. Improved the Bulk downloader.",
-  "homescreen_scrollnews_onClick_link" : "market://details?id=com.zeroltd.videodownloader"
+  }
+  
 }
