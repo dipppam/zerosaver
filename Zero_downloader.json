@@ -26,6 +26,10 @@
 
  "pdisk_sites" : "pdisk,cofilink,dropx,droppx,kofilink,weeshares,vveshare",
  "pdisk_nginx_sites" : "pdisk,pdisks,dropx,droppx,kofilink,kuklink,weeshares,wslinker,vdshort",
+ 
+ "iad" : "$cnv#:c5Xd]>sgs.MpBQ3IyvbvfMHLW9SMv1A3Wgxw5fYhJP9bQepF21kyQKJdAZGUiJgNDi6ENtprR7",
+ "adblock_iad" : "D|/W}Xz_!q ^0qXnRWOklEml4huBEVxHoL2vCbDmekNaJSn0yYKsTdgOQblNMmCbZhSV/1OP5EVPPpd8",
+ "bad" : "RYq+}+>3d&Wce bI1aade2W7+Ny1vjKQWdNdKsillNBYFxmKYvJj7vhqaEFWiLlvQQ61z+X8bLq+vRGY",
 
  "force_fb_login" : "false",
  "force_insta_login" : "true",
