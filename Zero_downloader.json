@@ -4,8 +4,8 @@
   "fb_2": "false",
   "latest_version" : "64",
    "latest_news_onclick" : {
-        "Heading": " Version 6.2",
-        "New Features" : " Changelog: \nFixed Whatsapp Status Saver not working on some phones\n1. New UI \n2. New All in One Gallery with Ai support \n3. Fixed Reel videos downloading issue \n4. Added In-depth video tutorial how to download videos, stories without watermark.",
+        "Heading": " Version 6.5",
+        "New Features" : " Changelog: \n1. Fixed Reel video downloading issue. \n2. Fixed facebook video downloading issues. \n3. Added Business Status Saver Support \n4. Added performance mode for older device(RAM less than 4Gb) \n5. Now you can report bugs easily so that we will release updates fastly.",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
   "latest_news_onclick_enable" : "false",
