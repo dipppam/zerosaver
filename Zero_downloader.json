@@ -20,7 +20,8 @@
  "adblock_iad" : "D|/W}Xz_!q ^0qXnRWOklEml4huBEVxHoL2vCbDmekNaJSn0yYKsTdgOQblNMmCbZhSV/1OP5EVPPpd8",
  "bad" : "RYq+}+>3d&Wce bI1aade2W7+Ny1vjKQWdNdKsillNBYFxmKYvJj7vhqaEFWiLlvQQ61z+X8bLq+vRGY",
  
- 
+ "pdisk_sites" : "pdisk,cofilink,dropx,droppx,kofilink,weeshares,vveshare",
+ "pdisk_nginx_sites" : "pdisk,pdisks,dropx,droppx,kofilink,kuklink,weeshares,wslinker,vdshort",
 
 
  
@@ -29,16 +30,13 @@
  
  "te_enable" : "true",
 
- "pdisk_sites" : "pdisk,cofilink,dropx,droppx,kofilink,weeshares,vveshare",
- "pdisk_nginx_sites" : "pdisk,pdisks,dropx,droppx,kofilink,kuklink,weeshares,wslinker,vdshort",
-
  "force_fb_login" : "false",
  "force_insta_login" : "true",
 
  "forceupdate_version" : "64",
    "forceupdate_dialog" : {
-        "Heading": " Version 6.5",
-        "New Features" : " Changelog: \n1. Fixed Reel video downloading issue. \n2. Fixed facebook video downloading issues. \n3. Added Business Status Saver Support \n4. Added performance mode for older device(RAM less than 4Gb) \n5. Now you can report bugs easily so that we will release updates fastly.",
+        "Heading": " Version 6.6",
+        "New Features" : " Changelog: \n1. Added Multiple selection in gallery and Bulk Downloader. \n2. Fixed Anonfiles downloading crash. \n3. Added Business Status Saver Support \n4. Added performance mode for older device(RAM less than 4Gb) \n5. Now you can report bugs easily so that we will release updates fastly.",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
 
@@ -46,6 +44,10 @@
    "forcedialog_issues_dialog" : {
         "Heading": "Attention",
         "Text1" : "Due to some technical issues, Josh downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more issues mail us"
-  }
+  },
+
+  "INTERSTITIALAD_INTERVAL":"10",
+  "DOWNLOADCOUNT_INTERVAL":"50",
+  "mdisk_sites" : "mdisk, mdisk.me"
   
 }
