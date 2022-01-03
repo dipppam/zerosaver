@@ -46,8 +46,8 @@
         "Text1" : "Due to some technical issues, Josh downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more issues mail us"
   },
 
-  "INTERSTITIALAD_INTERVAL":"10",
-  "DOWNLOADCOUNT_INTERVAL":"50",
+  "INTERSTITIALAD_INTERVAL":"20",
+  "DOWNLOADCOUNT_INTERVAL":"75",
   "mdisk_sites" : "mdisk, mdisk.me"
   
 }
