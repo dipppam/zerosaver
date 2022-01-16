@@ -35,8 +35,8 @@
 
  "forceupdate_version" : "64",
    "forceupdate_dialog" : {
-        "Heading": " Version 7.0",
-        "New Features" : " Changelog: 1. Added Premium Version (users can subscribe to remove ads).\n2. Added Multiple selection in gallery and Bulk Downloader. \n3. Fixed Anonfiles downloading crash. \n4. Added performance mode for older device(RAM less than 4Gb) \n5. Now you can report bugs easily so that we will release updates fastly.",
+        "Heading": " Version 7.1",
+        "New Features" : " Changelog: 1. Fixed Crashes on some devices. \n2. Added Premium Version (users can subscribe to remove ads).\n3. Fixed Anonfiles downloading crash.\n3. Now you can report bugs easily so that we will release updates fastly.",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
 
@@ -48,7 +48,8 @@
 
   "INTERSTITIALAD_INTERVAL":"10",
   "DOWNLOADCOUNT_INTERVAL":"25",
-  "mdisk_sites" : "mdisk, mdisk.me",
-  "MultipleSitesDL" : "xzdfd.gf,ytggd.com"
-  
+  "mdisk_sites" : "mdisk,entertainvideo.com",
+  "MultipleSitesDL" : "xzdfd.gf,ytggd.com",
+  "AdsUrls_blocked" : "https://opcharizardon,bright.gem,adeardk.biz,pierisrapgae,resumedelayed"
+ 
 }
