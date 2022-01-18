@@ -33,9 +33,9 @@
  "force_fb_login" : "false",
  "force_insta_login" : "false",
 
- "forceupdate_version" : "64",
+ "forceupdate_version" : "72",
    "forceupdate_dialog" : {
-        "Heading": " Version 7.1",
+        "Heading": " Version 7.2",
         "New Features" : " Changelog: 1. Fixed Crashes on some devices. \n2. Added Premium Version (users can subscribe to remove ads).\n3. Fixed Anonfiles downloading crash.\n3. Now you can report bugs easily so that we will release updates fastly.",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
