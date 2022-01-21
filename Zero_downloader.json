@@ -40,10 +40,10 @@
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
 
-  "forcedialog_issues_enable" : "false",
+  "forcedialog_issues_enable" : "true",
    "forcedialog_issues_dialog" : {
         "Heading": "Attention",
-        "Text1" : "Due to some technical issues, Josh downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more issues mail us"
+        "Text1" : "Due to New changes made my social app, Instagram downloading is not working. Our team working on a fix. \nPlease wait for some time \nFor more info mail us"
   },
 
   "INTERSTITIALAD_INTERVAL":"10",
