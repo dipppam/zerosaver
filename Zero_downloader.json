@@ -2,6 +2,7 @@
   "fb_0": "false",
   "fb_1": "true",
   "fb_2": "false",
+  "fb_default": "false",
   "latest_version" : "64",
    "latest_news_onclick" : {
         "Heading": " Version 6.5",
@@ -25,7 +26,9 @@
 
 
  
- "fb_default": "false",
+
+
+
  "fb_download_method":"1",
  
  "te_enable" : "true",
@@ -35,18 +38,18 @@
 
  "forceupdate_version" : "73",
    "forceupdate_dialog" : {
-        "Heading": " Version 7.3",
-        "New Features" : " Changelog: 1. Fixed Crashes for telegram downloading from Group.",
+        "Heading": " Version 7.5",
+        "New Features" : " Changelog: 1. Fixed all issues in Instagram Downloading. \n2. Fixed all other downloaders",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
 
-  "forcedialog_issues_enable" : "true",
+  "forcedialog_issues_enable" : "false",
    "forcedialog_issues_dialog" : {
         "Heading": "Attention",
         "Text1" : "Due to New changes made my social app, Instagram downloading is not working (Note-Story Saver is working). Our team is working on a fix. \nPlease wait for some time \nFor more info mail us"
   },
 
-  "INTERSTITIALAD_INTERVAL":"10",
+  "INTERSTITIALAD_INTERVAL":"11",
   "DOWNLOADCOUNT_INTERVAL":"25",
   "mdisk_sites" : "mdisk,entertainvideo.com",
   "MultipleSitesDL" : "xzdfd.gf,ytggd.com",
