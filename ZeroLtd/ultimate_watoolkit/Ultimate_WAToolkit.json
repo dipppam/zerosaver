@@ -1,0 +1,15 @@
+{
+  "latest_version": "12",
+  
+  "force_update" : {
+
+        "Heading": " Version 2.5",
+
+        "New Features" : " Changelog: \n1. Fixed the crash while downloading facebook videos. \n2. Added Direct share from Whatsapp Status to others without saving to gallery (user feedback) \n3. Added Support for Reddit videos downloading with audio support \n",
+
+        "link" : "market://details?id=com.zeroltd"
+  }
+
+  
+  
+}
