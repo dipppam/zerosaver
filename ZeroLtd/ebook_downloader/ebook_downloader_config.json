@@ -23,7 +23,7 @@
         "title":"Zero Apps",
         "provider":"webview",
         "arguments":[
-          "https://androfeed.com/b/zero"
+          "https://ln.ki/ZeroDownloader"
         ]
       },
       {
@@ -293,23 +293,7 @@
   },
   
   {
-    "title":"Requested Books",
-    "drawable":"",
-    "submenu":"Request",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"webview",
-        "arguments":[
-          "https://androfeed.com/download-requested-books/"
-        ]
-      }
-    ]
-  },
-  
-  {
-    "title":"Useful Apps",
+    "title":"Social Media Video Downloader",
     "drawable":"",
     "submenu":"Zero Ltd",
     "iap":false,
@@ -318,7 +302,7 @@
         "title":"",
         "provider":"webview",
         "arguments":[
-          "https://androfeed.com/b/zero"
+          "https://ln.ki/ZeroDownloader"
         ]
       }
     ]
