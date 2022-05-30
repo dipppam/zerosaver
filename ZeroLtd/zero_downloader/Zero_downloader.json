@@ -36,7 +36,7 @@
  "force_fb_login" : "false",
  "force_insta_login" : "true",
 
- "forceupdate_version" : "77",
+ "forceupdate_version" : "78",
    "forceupdate_dialog" : {
         "Heading": " Version 7.8",
         "New Features" : " Changelog: \n1. New Video Tutorials. \n2. Added Battery Optimization. \n3 Underhood AI Optimization",

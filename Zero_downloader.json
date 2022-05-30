@@ -36,10 +36,10 @@
  "force_fb_login" : "false",
  "force_insta_login" : "false",
 
- "forceupdate_version" : "77",
+ "forceupdate_version" : "78",
    "forceupdate_dialog" : {
-        "Heading": " Version 7.7",
-        "New Features" : " Changelog: 1. Fixed all issues in Instagram Downloading. \n2. Fixed all other downloaders. \n3 Added Automatic video Detection for many Websites",
+        "Heading": " Version 7.8",
+        "New Features" : " Changelog: \n1. New Video Tutorials. \n2. Added Battery Optimization. \n3 Underhood AI Optimization",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
 
