@@ -36,10 +36,10 @@
  "force_fb_login" : "false",
  "force_insta_login" : "true",
 
- "forceupdate_version" : "78",
+ "forceupdate_version" : "80",
    "forceupdate_dialog" : {
-        "Heading": " Version 7.8",
-        "New Features" : " Changelog: \n1. New Video Tutorials. \n2. Added Battery Optimization. \n3 Underhood AI Optimization",
+        "Heading": " Version 8.0",
+        "New Features" : " Changelog: \n1. Hot fix for App crash on A12 devices",
         "link" : "market://details?id=com.zeroltd.videodownloader"
   },
 
